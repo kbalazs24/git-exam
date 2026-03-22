@@ -7,6 +7,8 @@ Login feature started
 
 Temporary change
 
+Final feature
+
 utolsó előtti commit
 utolsó commit
 
